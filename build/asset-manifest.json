@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/igem-website/static/css/main.d221dc40.css",
+    "main.js": "/igem-website/static/js/main.1428a5fd.js",
+    "index.html": "/igem-website/index.html",
+    "main.d221dc40.css.map": "/igem-website/static/css/main.d221dc40.css.map",
+    "main.1428a5fd.js.map": "/igem-website/static/js/main.1428a5fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d221dc40.css",
+    "static/js/main.1428a5fd.js"
+  ]
+}
